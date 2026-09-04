@@ -1,0 +1,91 @@
+═════════════════════════════════════════════════════════════════════════
+  SETUP RÁPIDO - GitHub Pages + Domínio .adv.br
+═════════════════════════════════════════════════════════════════════════
+
+ARQUIVOS QUE VOCÊ TEM:
+✓ index.html        → Sua landing page (pronta para ir online)
+✓ CNAME             → Arquivo que vincula ao domínio customizado
+✓ README.md         → Instruções completas
+✓ Este arquivo      → Resumo rápido
+
+═════════════════════════════════════════════════════════════════════════
+PASSO 1: CRIAR REPOSITÓRIO NO GITHUB (5 minutos)
+═════════════════════════════════════════════════════════════════════════
+
+1. Vá para: github.com
+2. Clique: "New" (criar novo repositório)
+3. Nome: renatabraganca.adv.br
+4. Público: SIM
+5. Criar repository
+
+═════════════════════════════════════════════════════════════════════════
+PASSO 2: UPLOAD DOS ARQUIVOS (2 minutos)
+═════════════════════════════════════════════════════════════════════════
+
+No repositório que acabou de criar:
+1. Clique: "Add file" → "Upload files"
+2. Arraste os 3 arquivos:
+   - index.html
+   - CNAME
+   - README.md
+3. Commit message: "Initial commit"
+4. Commit changes
+
+═════════════════════════════════════════════════════════════════════════
+PASSO 3: ATIVAR GITHUB PAGES (3 minutos)
+═════════════════════════════════════════════════════════════════════════
+
+1. Vá para: Settings (abas no topo)
+2. Clique: Pages (menu esquerdo)
+3. Deploy from a branch: Main / (root)
+4. Save
+
+Pronto! GitHub Pages está ativo. Você verá um link temporário tipo:
+https://seu-usuario.github.io/renatabraganca.adv.br/
+
+═════════════════════════════════════════════════════════════════════════
+PASSO 4: REGISTRAR DOMÍNIO .adv.br (2-3 dias úteis)
+═════════════════════════════════════════════════════════════════════════
+
+1. Vá para: registro.br
+2. Procure: renatabraganca.adv.br
+3. Preencha: CPF de Renata + Inscrição OAB
+4. Pague: ~R$50-60/ano
+5. Aguarde: Ativação (geralmente 1-2 dias úteis)
+
+═════════════════════════════════════════════════════════════════════════
+PASSO 5: VINCULAR DOMÍNIO AO GITHUB PAGES (5 minutos)
+═════════════════════════════════════════════════════════════════════════
+
+Após o domínio estar ativo no registro.br:
+
+NO GITHUB:
+1. Settings → Pages
+2. Custom domain: renatabraganca.adv.br
+3. Save
+4. Enforce HTTPS (marque a caixa)
+
+NO REGISTRO.BR:
+1. Meus domínios → renatabraganca.adv.br
+2. Configurar DNS
+3. Adicione registros A do GitHub Pages (veja README.md)
+
+Aguarde 24-48h para DNS propagar.
+
+═════════════════════════════════════════════════════════════════════════
+RESULTADO FINAL
+═════════════════════════════════════════════════════════════════════════
+
+✓ Site online em: https://renatabraganca.adv.br
+✓ Hospedagem: Gratuita (GitHub Pages)
+✓ Domínio: Profissional (.adv.br)
+✓ Custo anual: ~R$50-60 (apenas domínio)
+✓ SSL/HTTPS: Automático e gratuito
+
+═════════════════════════════════════════════════════════════════════════
+DÚVIDAS?
+═════════════════════════════════════════════════════════════════════════
+
+Leia o README.md para instruções detalhadas com screenshots e suporte.
+
+Bom sucesso! 🚀
